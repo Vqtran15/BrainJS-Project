@@ -1,0 +1,60 @@
+
+[
+    
+    {
+      "text": "I can't deploy a tag",
+      "category": "customer"
+    },
+    {
+      "text": "The software is buggy",
+      "category": "customer"
+    },
+    {
+      "text": "I need pricing",
+      "category": "prospect"
+    },
+    {
+      "text": "I would like a demo",
+      "category": "prospect"
+    },
+    {
+      "text": "How much does it cost?",
+      "category": "prospect"
+    },
+    {
+      "text": "How do I deploy a tag",
+      "category": "customer"
+    },
+    {
+      "text": "Can I schedule a demo",
+      "category": "prospect"
+    },
+    {
+      "text": "Can I speak to a sales rep",
+      "category": "prospect"
+    },
+    {
+      "text": "I'm having technical issues",
+      "category": "customer"
+    },
+    {
+      "text": "code",
+      "category": "customer"
+    },
+    {
+      "text": "i found some bugs in the code",
+      "category": "customer"
+    },
+    {
+      "text": "I have a question on your products",
+      "category": "prospect"
+    },
+    {
+      "text": "Can I speak to a sales rep",
+      "category": "prospect"
+    },
+    {
+      "text": "How do I purchase",
+      "category": "prospect"
+    }
+  ]
